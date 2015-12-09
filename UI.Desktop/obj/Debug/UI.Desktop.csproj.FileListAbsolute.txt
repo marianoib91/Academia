@@ -150,3 +150,6 @@ C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.Profesores.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.CursoDesktop.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.pdb

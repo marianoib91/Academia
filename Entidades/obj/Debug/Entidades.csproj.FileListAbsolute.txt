@@ -1,0 +1,35 @@
+C:\Net\Labs\TP2L02\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Net\Labs\TP2L02\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Net\Labs\TP2L02\TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Net\Labs\TP2L02\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Net\Labs\TP2L02\TP2\Entidades\obj\Debug\Entidades.pdb
+C:\Net\Labs\TP2L03\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Net\Labs\TP2L03\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Net\Labs\TP2L03\TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Net\Labs\TP2L03\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Net\Labs\TP2L03\TP2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\Entidades\obj\Debug\Entidades.pdb
+C:\Net\Labs\TP2L04\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Net\Labs\TP2L04\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Net\Labs\TP2L04\TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Net\Labs\TP2L04\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Net\Labs\TP2L04\TP2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Entidades\obj\Debug\Entidades.pdb

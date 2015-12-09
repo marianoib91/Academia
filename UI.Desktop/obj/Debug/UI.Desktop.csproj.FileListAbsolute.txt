@@ -1,0 +1,152 @@
+C:\Net\Labs\TP2L01\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Net\Labs\TP2L02\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Net\Labs\TP2L02\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Net\Labs\TP2L02\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Net\Labs\TP2L02\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Net\Labs\TP2L02\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Net\Labs\TP2L02\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Net\Labs\TP2L02\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Net\Labs\TP2L02\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Entidades.dll
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Negocio.dll
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Entidades.pdb
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Negocio.pdb
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Net\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\bin\Debug\Entidades.dll
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\bin\Debug\Negocio.dll
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\bin\Debug\Entidades.pdb
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\bin\Debug\Negocio.pdb
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\bin\Debug\Entidades.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\bin\Debug\Negocio.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\bin\Debug\Entidades.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\bin\Debug\Negocio.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\TP2_V_4.1\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\bin\Debug\Entidades.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\bin\Debug\Negocio.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\bin\Debug\Entidades.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\bin\Debug\Negocio.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Desktop\obj\Debug\UI.Desktop.formUsuario.resources
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Net\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.formUsuario.resources
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.formUsuario.resources
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\bin\Debug\Entidades.dll
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\bin\Debug\Negocio.dll
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\bin\Debug\Entidades.pdb
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\bin\Debug\Negocio.pdb
+C:\Users\LENI-ALUMNO\Downloads\Nueva carpeta\TP2L04\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\bin\Debug\Entidades.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\bin\Debug\Negocio.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\bin\Debug\Entidades.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\bin\Debug\Negocio.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.formUsuario.resources
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\TP2_V_4.5\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\TP2L05\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+D:\Visual Studio 2013\Projects\TP2L05\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+D:\Visual Studio 2013\Projects\TP2L05\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\bin\Debug\Entidades.dll
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\bin\Debug\Negocio.dll
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\bin\Debug\Entidades.pdb
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\bin\Debug\Negocio.pdb
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.formUsuario.resources
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\WindowsFranco\Documents\Visual Studio 2013\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\bin\Debug\Entidades.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\bin\Debug\Negocio.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\bin\Debug\Entidades.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\bin\Debug\Negocio.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.formUsuario.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.Alumnos.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.ComisionDesktop.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.Comisiones.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.Cursos.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.Profesores.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\UI.Desktop\obj\Debug\UI.Desktop.CursoDesktop.resources

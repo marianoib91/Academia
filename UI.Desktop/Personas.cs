@@ -13,9 +13,9 @@ using Business.Logic;
 
 namespace UI.Desktop
 {
-    public partial class Alumnos : Form
+    public partial class Personas : ApplicationForm
     {
-        public Alumnos()
+        public Personas()
         {
             InitializeComponent();
         }

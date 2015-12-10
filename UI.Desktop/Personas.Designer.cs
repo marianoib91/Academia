@@ -1,6 +1,6 @@
 ﻿namespace UI.Desktop
 {
-    partial class Alumnos
+    partial class Personas
     {
         /// <summary>
         /// Required designer variable.
@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             this.tcAlumnos = new System.Windows.Forms.ToolStripContainer();
-            this.tsAlumnos = new System.Windows.Forms.ToolStrip();
             this.tlAlumnos = new System.Windows.Forms.TableLayoutPanel();
             this.dgvAlumnos = new System.Windows.Forms.DataGridView();
             this.btnActualizar = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
+            this.tsAlumnos = new System.Windows.Forms.ToolStrip();
             this.tcAlumnos.ContentPanel.SuspendLayout();
             this.tcAlumnos.TopToolStripPanel.SuspendLayout();
             this.tcAlumnos.SuspendLayout();
@@ -58,15 +58,6 @@
             // tcAlumnos.TopToolStripPanel
             // 
             this.tcAlumnos.TopToolStripPanel.Controls.Add(this.tsAlumnos);
-            // 
-            // tsAlumnos
-            // 
-            this.tsAlumnos.Dock = System.Windows.Forms.DockStyle.None;
-            this.tsAlumnos.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.tsAlumnos.Location = new System.Drawing.Point(3, 0);
-            this.tsAlumnos.Name = "tsAlumnos";
-            this.tsAlumnos.Size = new System.Drawing.Size(111, 25);
-            this.tsAlumnos.TabIndex = 0;
             // 
             // tlAlumnos
             // 
@@ -115,14 +106,23 @@
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
             // 
-            // Alumnos
+            // tsAlumnos
+            // 
+            this.tsAlumnos.Dock = System.Windows.Forms.DockStyle.None;
+            this.tsAlumnos.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.tsAlumnos.Location = new System.Drawing.Point(3, 0);
+            this.tsAlumnos.Name = "tsAlumnos";
+            this.tsAlumnos.Size = new System.Drawing.Size(111, 25);
+            this.tsAlumnos.TabIndex = 0;
+            // 
+            // Personas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(611, 467);
             this.Controls.Add(this.tcAlumnos);
-            this.Name = "Alumnos";
-            this.Text = "Alumnos";
+            this.Name = "Personas";
+            this.Text = "Personas";
             this.tcAlumnos.ContentPanel.ResumeLayout(false);
             this.tcAlumnos.TopToolStripPanel.ResumeLayout(false);
             this.tcAlumnos.TopToolStripPanel.PerformLayout();

@@ -31,12 +31,12 @@
             this.tcPlanes = new System.Windows.Forms.ToolStripContainer();
             this.tlPlanes = new System.Windows.Forms.TableLayoutPanel();
             this.dgvPlanes = new System.Windows.Forms.DataGridView();
-            this.btnActualizar = new System.Windows.Forms.Button();
-            this.btnSalir = new System.Windows.Forms.Button();
-            this.tsPlanes = new System.Windows.Forms.ToolStrip();
             this.id_plan = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.desc_plan = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.id_especialidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.btnActualizar = new System.Windows.Forms.Button();
+            this.btnSalir = new System.Windows.Forms.Button();
+            this.tsPlanes = new System.Windows.Forms.ToolStrip();
             this.tsbNuevo = new System.Windows.Forms.ToolStripButton();
             this.tsbEditar = new System.Windows.Forms.ToolStripButton();
             this.tsbEliminar = new System.Windows.Forms.ToolStripButton();
@@ -95,11 +95,31 @@
             this.tlPlanes.SetColumnSpan(this.dgvPlanes, 2);
             this.dgvPlanes.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvPlanes.Location = new System.Drawing.Point(3, 3);
+            this.dgvPlanes.MultiSelect = false;
             this.dgvPlanes.Name = "dgvPlanes";
             this.dgvPlanes.ReadOnly = true;
             this.dgvPlanes.RowTemplate.Height = 24;
+            this.dgvPlanes.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvPlanes.Size = new System.Drawing.Size(343, 193);
             this.dgvPlanes.TabIndex = 0;
+            // 
+            // id_plan
+            // 
+            this.id_plan.HeaderText = "ID";
+            this.id_plan.Name = "id_plan";
+            this.id_plan.ReadOnly = true;
+            // 
+            // desc_plan
+            // 
+            this.desc_plan.HeaderText = "Descripcion";
+            this.desc_plan.Name = "desc_plan";
+            this.desc_plan.ReadOnly = true;
+            // 
+            // id_especialidad
+            // 
+            this.id_especialidad.HeaderText = "ID Especialidad";
+            this.id_especialidad.Name = "id_especialidad";
+            this.id_especialidad.ReadOnly = true;
             // 
             // btnActualizar
             // 
@@ -132,26 +152,8 @@
             this.tsbEliminar});
             this.tsPlanes.Location = new System.Drawing.Point(3, 0);
             this.tsPlanes.Name = "tsPlanes";
-            this.tsPlanes.Size = new System.Drawing.Size(123, 27);
+            this.tsPlanes.Size = new System.Drawing.Size(84, 27);
             this.tsPlanes.TabIndex = 0;
-            // 
-            // id_plan
-            // 
-            this.id_plan.HeaderText = "ID";
-            this.id_plan.Name = "id_plan";
-            this.id_plan.ReadOnly = true;
-            // 
-            // desc_plan
-            // 
-            this.desc_plan.HeaderText = "Descripcion";
-            this.desc_plan.Name = "desc_plan";
-            this.desc_plan.ReadOnly = true;
-            // 
-            // id_especialidad
-            // 
-            this.id_especialidad.HeaderText = "ID Especialidad";
-            this.id_especialidad.Name = "id_especialidad";
-            this.id_especialidad.ReadOnly = true;
             // 
             // tsbNuevo
             // 
@@ -162,6 +164,7 @@
             this.tsbNuevo.Size = new System.Drawing.Size(24, 24);
             this.tsbNuevo.Text = "toolStripButton1";
             this.tsbNuevo.ToolTipText = "Nuevo";
+            this.tsbNuevo.Click += new System.EventHandler(this.tsbNuevo_Click);
             // 
             // tsbEditar
             // 
@@ -172,6 +175,7 @@
             this.tsbEditar.Size = new System.Drawing.Size(24, 24);
             this.tsbEditar.Text = "toolStripButton1";
             this.tsbEditar.ToolTipText = "Editar";
+            this.tsbEditar.Click += new System.EventHandler(this.tsbEditar_Click);
             // 
             // tsbEliminar
             // 
@@ -182,6 +186,7 @@
             this.tsbEliminar.Size = new System.Drawing.Size(24, 24);
             this.tsbEliminar.Text = "toolStripButton1";
             this.tsbEliminar.ToolTipText = "Eliminar";
+            this.tsbEliminar.Click += new System.EventHandler(this.tsbEliminar_Click);
             // 
             // Planes
             // 

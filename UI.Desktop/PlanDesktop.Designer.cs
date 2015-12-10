@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.txtID = new System.Windows.Forms.TextBox();
             this.txtDescripcion = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtID = new System.Windows.Forms.TextBox();
             this.cmbIDEspecialidad = new System.Windows.Forms.ComboBox();
             this.btnAceptar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
@@ -65,6 +65,13 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(595, 92);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
+            // txtDescripcion
+            // 
+            this.txtDescripcion.Location = new System.Drawing.Point(419, 3);
+            this.txtDescripcion.Name = "txtDescripcion";
+            this.txtDescripcion.Size = new System.Drawing.Size(173, 22);
+            this.txtDescripcion.TabIndex = 4;
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -73,15 +80,6 @@
             this.label1.Size = new System.Drawing.Size(21, 17);
             this.label1.TabIndex = 0;
             this.label1.Text = "ID";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(300, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(82, 17);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Descripcion";
             // 
             // label3
             // 
@@ -92,6 +90,15 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "ID Especialidad";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(300, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(82, 17);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Descripcion";
+            // 
             // txtID
             // 
             this.txtID.Location = new System.Drawing.Point(122, 3);
@@ -99,13 +106,6 @@
             this.txtID.ReadOnly = true;
             this.txtID.Size = new System.Drawing.Size(172, 22);
             this.txtID.TabIndex = 3;
-            // 
-            // txtDescripcion
-            // 
-            this.txtDescripcion.Location = new System.Drawing.Point(419, 3);
-            this.txtDescripcion.Name = "txtDescripcion";
-            this.txtDescripcion.Size = new System.Drawing.Size(173, 22);
-            this.txtDescripcion.TabIndex = 4;
             // 
             // cmbIDEspecialidad
             // 
@@ -123,6 +123,7 @@
             this.btnAceptar.TabIndex = 6;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // btnCancelar
             // 
@@ -132,6 +133,7 @@
             this.btnCancelar.TabIndex = 7;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // PlanDesktop
             // 

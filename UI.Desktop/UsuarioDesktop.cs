@@ -35,6 +35,7 @@ namespace UI.Desktop
         public UsuarioDesktop()
         {
             InitializeComponent();
+            this.fillCmbIdPersona();
         }
 
         /*ARREGLAR METODO PARA LLENAR COMBOBOX 
@@ -45,9 +46,9 @@ namespace UI.Desktop
         {
             UsuarioLogic ul = new UsuarioLogic();
             List<Usuario> usuarios = new List<Usuario>();
-            usuarios = ul.GetAll();
+            usuarios.AddRange(ul.GetAll());
             cmbIdPersona.DataSource = usuarios;
-            cmbIdPersona.DisplayMember = "ID";
+            cmbIdPersona.DisplayMember = "_ID";
             cmbIdPersona.ValueMember = "ID";
             
         }

@@ -48,11 +48,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Alumnos.cs">
+    <Compile Include="Personas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Alumnos.Designer.cs">
-      <DependentUpon>Alumnos.cs</DependentUpon>
+    <Compile Include="Personas.Designer.cs">
+      <DependentUpon>Personas.cs</DependentUpon>
     </Compile>
     <Compile Include="ApplicationForm.cs">
       <SubType>Form</SubType>
@@ -134,8 +134,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Alumnos.resx">
-      <DependentUpon>Alumnos.cs</DependentUpon>
+    <EmbeddedResource Include="Personas.resx">
+      <DependentUpon>Personas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ApplicationForm.resx">
       <DependentUpon>ApplicationForm.cs</DependentUpon>

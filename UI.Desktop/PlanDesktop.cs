@@ -33,6 +33,18 @@ namespace UI.Desktop
         {
             InitializeComponent();
         }
+
+        //defino el DataSource del comboBox cmbIDEspecialidad
+        public void FillComboEspecialidad()
+        {
+            PlanLogic pl = new PlanLogic();
+            List<Plan> planes = new List<Plan>();
+            planes.AddRange(pl.GetAll());
+            cmbIDEspecialidad.DataSource = planes;
+            cmbIDEspecialidad.DisplayMember = "_IDEspecialidad";
+            cmbIDEspecialidad.ValueMember = "_IDEespecialidad";
+        }
+
         public PlanDesktop(ModoForm modo):this()
         {
             this.Modo = modo;
@@ -79,11 +91,50 @@ namespace UI.Desktop
                 PlanActual.IdEspecialidad = Convert.ToInt32(this.cmbIDEspecialidad.SelectedText);
                 
             }
-            
-            //DEFINIR STATE DE PLANACTUAL SEGUN EL MODO
+
+            if (this.Modo==ModoForm.Alta)
+            {
+                PlanActual.State = BusinessEntity.States.New;
+            }
+            else if (this.Modo==ModoForm.Baja)
+            {
+                PlanActual.State = BusinessEntity.States.Deleted;
+            }
+            else if (this.Modo==ModoForm.Modificacion)
+            {
+                PlanActual.State = BusinessEntity.States.Modified;
+            }
+            else if (this.Modo == ModoForm.Consulta)
+            {
+                PlanActual.State = BusinessEntity.States.Unmodified;
+            }
         }
-        public override void GuardarCambios() { }
-        public override bool Validar() { return false; }
+        public override void GuardarCambios()
+        {
+            this.MapearADatos();
+            PlanLogic pl = new PlanLogic();
+            pl.Save(PlanActual);
+
+        }
+        public override bool Validar()
+        {
+            if (this.txtDescripcion.Text == null)
+            {
+                this.Notificar("Error", "La Descripcion no puede quedar en blanco.", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+            else if (this.cmbIDEspecialidad.SelectedItem == null)
+            {
+                this.Notificar("Error", "Debe seleccionar una ID para la Especialidad.", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+            else
+            {
+                this.Notificar("Se realizo la operacion correctamente.", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                return true;
+            } 
+
+        }
         public override void Notificar(string titulo, string mensaje, MessageBoxButtons
         botones, MessageBoxIcon icono)
         {
@@ -93,6 +144,20 @@ namespace UI.Desktop
         MessageBoxIcon icono)
         {
             this.Notificar(this.Text, mensaje, botones, icono);
-        }
+        }
+
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            if (this.Validar())
+            {
+                this.GuardarCambios();
+                this.Close();
+            }
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Business.Entities
 {
-    public class Personas : BusinessEntity
+    public class Persona : BusinessEntity
     {
 
-        public enum TipoPersonas { Alumno, Docente };
+        public enum TipoPersonas { Alumno, Docente, Administrador };
         private string _Apellido, _Direccion, _Email, _Nombre, _Telefono;
         private int _IDPlan, _Legajo;
         private DateTime _FechaNacimiento;

@@ -33,3 +33,8 @@ C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Entidades\bin\Debug\E
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Entidades\obj\Debug\Entidades.dll
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Entidades\bin\Debug\Entidades.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Entidades\obj\Debug\Entidades.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Entidades\obj\Debug\Entidades.pdb

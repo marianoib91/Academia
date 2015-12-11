@@ -162,7 +162,6 @@ C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\b
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\bin\Debug\Entidades.pdb
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\bin\Debug\Negocio.pdb
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
-C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.Alumnos.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.ComisionDesktop.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.Comisiones.resources
@@ -178,3 +177,4 @@ C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\o
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.formUsuario.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.Personas.resources

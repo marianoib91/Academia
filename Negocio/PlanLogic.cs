@@ -30,7 +30,9 @@ namespace Business.Logic
 
         public List<Plan> GetAll()
         {
-            return PlanData.GetAll();
+            List<Plan> planes = new List<Plan>();
+            planes = PlanData.GetAll();
+            return planes;
         }
         public Plan GetOne(int ID)
         {

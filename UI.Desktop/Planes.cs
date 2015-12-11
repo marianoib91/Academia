@@ -18,6 +18,7 @@ namespace UI.Desktop
         {
             InitializeComponent();
             dgvPlanes.AutoGenerateColumns = false;
+            Listar();
         }
         public void Listar()
         {

@@ -32,17 +32,19 @@ namespace UI.Desktop
         public PlanDesktop()
         {
             InitializeComponent();
+            this.FillComboEspecialidad();
         }
 
         //defino el DataSource del comboBox cmbIDEspecialidad
         public void FillComboEspecialidad()
         {
-            PlanLogic pl = new PlanLogic();
-            List<Plan> planes = new List<Plan>();
-            planes.AddRange(pl.GetAll());
-            cmbIDEspecialidad.DataSource = planes;
-            cmbIDEspecialidad.DisplayMember = "_IDEspecialidad";
-            cmbIDEspecialidad.ValueMember = "_IDEespecialidad";
+            EspecialidadLogic el = new EspecialidadLogic();
+            List<Especialidad> especialidades = new List<Especialidad>();
+            especialidades.AddRange(el.GetAll());
+            
+            cmbIDEspecialidad.DataSource = especialidades;
+            cmbIDEspecialidad.DisplayMember = "ID Especialidad";
+            cmbIDEspecialidad.ValueMember = "ID";
         }
 
         public PlanDesktop(ModoForm modo):this()

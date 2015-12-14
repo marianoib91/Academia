@@ -172,9 +172,9 @@ C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\o
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.PlanDesktop.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.Planes.resources
-C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.Profesores.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.formUsuario.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.Personas.resources
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources

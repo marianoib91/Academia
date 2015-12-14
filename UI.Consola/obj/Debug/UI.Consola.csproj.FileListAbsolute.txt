@@ -34,3 +34,15 @@ C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Consola\bin\Debug\Data.Datab
 C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
 C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Consola\obj\Debug\UI.Consola.exe
 C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\UI.Consola\obj\Debug\UI.Consola.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\bin\Debug\Entidades.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\bin\Debug\Negocio.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\bin\Debug\Entidades.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\bin\Debug\Negocio.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\UI.Consola\obj\Debug\UI.Consola.pdb

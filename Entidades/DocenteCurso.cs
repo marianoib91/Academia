@@ -8,8 +8,7 @@ namespace Business.Entities
 {
     public class DocenteCurso : BusinessEntity
     {
-        //FALTAN LOS VALORES DEL ENUMERADOR TiposCargos!!
-        public enum TiposCargos { }
+        public enum TiposCargos {Teoria, Practica}
         private int _IDCurso, _IDDocente;
         private TiposCargos _Cargo;
 

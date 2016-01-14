@@ -50,5 +50,21 @@ namespace UI.Desktop
             formPersona.ShowDialog();
             this.Listar();
         }
+
+        private void tbsEditar_Click(object sender, EventArgs e)
+        {
+            int ID = ((Business.Entities.Usuario)this.dgvPersonas.SelectedRows[0].DataBoundItem).ID;
+            PersonaDesktop formPersona = new PersonaDesktop(ID, ApplicationForm.ModoForm.Modificacion);
+            formPersona.ShowDialog();
+            this.Listar();
+        }
+
+        private void tbsEliminar_Click(object sender, EventArgs e)
+        {
+            int ID = ((Persona)this.dgvPersonas.SelectedRows[0].DataBoundItem).ID;
+            PersonaDesktop formPersona = new PersonaDesktop(ID, ApplicationForm.ModoForm.Baja);
+            formPersona.ShowDialog();
+            this.Listar();
+        }
     }
 }

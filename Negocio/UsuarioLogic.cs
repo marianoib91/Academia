@@ -32,6 +32,26 @@ namespace Business.Logic
         {
             return _UsuarioData.GetOne(Id);
         }
+
+        public Usuario GetOne(string nombre)
+        {
+            Usuario usr;
+            try
+            {
+                usr = _UsuarioData.GetOne(nombre);
+            }
+            catch (Exception Ex)
+            {
+                throw Ex;
+            }
+            return usr;
+        }
+
+        public Boolean GetOne(string usuario, string clave)
+        {
+            return UsuarioData.GetOne(usuario, clave);
+        }
+
         public void Delete(int Id)
         {
             _UsuarioData.Delete(Id);

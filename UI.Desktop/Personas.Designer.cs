@@ -230,6 +230,7 @@
             this.tbsEditar.Size = new System.Drawing.Size(24, 24);
             this.tbsEditar.Text = "toolStripButton2";
             this.tbsEditar.ToolTipText = "Editar";
+            this.tbsEditar.Click += new System.EventHandler(this.tbsEditar_Click);
             // 
             // tbsEliminar
             // 
@@ -239,6 +240,7 @@
             this.tbsEliminar.Name = "tbsEliminar";
             this.tbsEliminar.Size = new System.Drawing.Size(24, 24);
             this.tbsEliminar.Text = "Eliminar";
+            this.tbsEliminar.Click += new System.EventHandler(this.tbsEliminar_Click);
             // 
             // Personas
             // 

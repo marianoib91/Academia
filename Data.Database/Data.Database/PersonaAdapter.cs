@@ -12,13 +12,13 @@ namespace Data.Database
         public List<Persona> GetAll()
         {
 
+            //Devuelvo todas las personas que tengo en la base de datos y las cargo a la grilla
             List<Persona> personas = new List<Persona>();
 
             try
             {
                 this.OpenConnection();
-                //Devuelvo todas las personas que tengo en la base de datos y las cargo a la grilla
-                SqlCommand cmdPersonas = new SqlCommand("SELECT * FROM personas", sqlConn);
+                SqlCommand cmdPersonas = new SqlCommand("select * from personas", sqlConn);
 
                 SqlDataReader drPersonas = cmdPersonas.ExecuteReader();
                 while (drPersonas.Read())
@@ -31,7 +31,7 @@ namespace Data.Database
                     per.Direccion = (string)drPersonas["direccion"];
                     per.Email = (string)drPersonas["email"];
                     per.Telefono = (string)drPersonas["telefono"];
-                    per.FechaNacimiento = (DateTime)drPersonas["fecha_nac"];
+                    per.FechaNacimiento = ((DateTime)drPersonas["fecha_nac"]);
                     per.Legajo = (int)drPersonas["legajo"];
                     per.TipoPersona = (Persona.TipoPersonas)drPersonas["tipo_persona"];
                     per.IDPlan = (int)drPersonas["id_plan"];

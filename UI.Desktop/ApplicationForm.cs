@@ -12,21 +12,27 @@ namespace UI.Desktop
 {
     public partial class ApplicationForm : Form
     {
-        public enum ModoForm { Alta, Baja, Modificacion, Consulta };
+        public ApplicationForm()
+        {
+            InitializeComponent();
+        }
+
+        //RECORDAR: 0 = Admin, 1 = Profesor, 2 = Alumno
+        static private int _TipoUsuario;
+        static public int TipoUsuario
+        {
+            get { return _TipoUsuario; }
+            set { _TipoUsuario = value; }
+        }
+        //Defino la enumeracion
+        public enum ModoForm {Alta, Baja, Modificacion, Consulta}
+        //Propiedad Modo
         private ModoForm _Modo;
         public ModoForm Modo {
             get { return _Modo; } 
             set{_Modo=value;} }
-
-
-        public ApplicationForm()
-        {
-            InitializeComponent();
-
-            
-        }
-
-
+        
+        //Metodos a sobrecargar en las subclases
         public virtual void MapearDeDatos() { }
         public virtual void MapearADatos() { }
         public virtual void GuardarCambios() { }

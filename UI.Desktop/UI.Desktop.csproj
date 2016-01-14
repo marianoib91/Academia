@@ -90,11 +90,23 @@
     <Compile Include="Especialidades.Designer.cs">
       <DependentUpon>Especialidades.cs</DependentUpon>
     </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
     <Compile Include="Materias.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Materias.Designer.cs">
       <DependentUpon>Materias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
     <Compile Include="PersonaDesktop.cs">
       <SubType>Form</SubType>
@@ -155,8 +167,14 @@
     <EmbeddedResource Include="Especialidades.resx">
       <DependentUpon>Especialidades.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Materias.resx">
       <DependentUpon>Materias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PersonaDesktop.resx">
       <DependentUpon>PersonaDesktop.cs</DependentUpon>

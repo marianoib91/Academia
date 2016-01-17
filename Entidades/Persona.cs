@@ -9,7 +9,7 @@ namespace Business.Entities
     public class Persona : BusinessEntity
     {
 
-        public enum TipoPersonas { Administrador, Docente, Alumno };
+        public enum TipoPersonas { Administrador = 1, Docente = 2, Alumno = 3 };
         private string _Apellido, _Direccion, _Email, _Nombre, _Telefono;
         private int _IDPlan, _Legajo;
         private DateTime _FechaNacimiento;

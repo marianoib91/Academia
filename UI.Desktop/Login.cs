@@ -14,7 +14,6 @@ namespace UI.Desktop
 {
     public partial class Login : ApplicationForm
     {
-        private object txtUsuario;
 
         public Login()
         {
@@ -29,13 +28,39 @@ namespace UI.Desktop
             {
                 usr = usuario.GetOne(this.txtNombreUsuario.Text);
                 PersonaLogic pl = new PersonaLogic();
-                Persona per = pl.GetOne(usr.ID);
-                
+                Persona per = pl.GetOne(usr.IDPersona);
+                InfoUsuario = usr.Apellido + "," + usr.Nombre;
+                IDPersona = usr.IDPersona;
+                IDUsuario = usr.ID;
+                Persona.TipoPersonas tipoPer = per.TipoPersona;
+                this.DialogResult = DialogResult.OK;
+                switch (per.TipoPersona)
+                {
+                    case Persona.TipoPersonas.Administrador:
+                        TipoUsuario = 1;
+                        this.Close();
+                        break;
+                    case Persona.TipoPersonas.Docente:
+                        TipoUsuario = 2;
+                        this.Close();
+                        break;
+                    case Persona.TipoPersonas.Alumno:
+                        TipoUsuario = 3;
+                        this.Close();
+                        break;
+                }
+
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show("Nombre de Usuario y/o Contraseña incorrecto/s.", "Login",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         private void btnSalir_Click(object sender, EventArgs e)
         {
-
+            this.Dispose();
         }
         
         

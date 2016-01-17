@@ -8,7 +8,7 @@ namespace Business.Entities
 {
     public class DocenteCurso : BusinessEntity
     {
-        public enum TiposCargos {Teoria, Practica}
+        public enum TiposCargos {Teoria = 1, Practica = 2}
         private int _IDCurso, _IDDocente;
         private TiposCargos _Cargo;
 

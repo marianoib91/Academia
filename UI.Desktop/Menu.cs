@@ -32,13 +32,13 @@ namespace UI.Desktop
         {
             switch (TipoUsuario)
             {
-                case 0:
+                case 1:
                     this.esAdmin(true);
                     break;
-                case 1:
+                case 2:
                     this.esProfesor(true);
                     break;
-                case 2:
+                case 3:
                     this.esAlumno(true);
                     break;
             }
@@ -46,6 +46,7 @@ namespace UI.Desktop
         private void esAdmin(bool det)
         {
             //Determina si mostrar o no estas opciones, segun se haya logueado o no Admin
+            smiUsuarios.Visible = det;
             smiComisiones.Visible = det;
             smiCursos.Visible = det;
             smiEspecialidades.Visible = det;
@@ -63,6 +64,14 @@ namespace UI.Desktop
         }
         private void esAlumno(bool det)
         {
+            smiComisiones.Visible = false;
+            smiCursos.Visible = false;
+            smiEspecialidades.Visible = false;
+            smiMaterias.Visible = false;
+            smiMisCursos.Visible = false;
+            smiPersonas.Visible = false;
+            smiPlanes.Visible = false;
+            smiMisCursos.Visible = false;
             //Muestra la opcion de inscripcion a materias para un alumno
             smiInscripcionAMateria.Visible = det;
         }

@@ -13,19 +13,14 @@ using Business.Logic;
 
 namespace UI.Desktop
 {
-    public partial class formUsuario : Form
+    public partial class Usuarios : ApplicationForm
     {
-        public formUsuario()
+        public Usuarios()
         {
             InitializeComponent();
             this.dgvUsuarios.AutoGenerateColumns = false;
         }
-
-        private void toolStripContainer1_ContentPanel_Load(object sender, EventArgs e)
-        {
-
-        }
-
+        
         private void btnActualizar_Click(object sender, EventArgs e)
         {
             Listar();

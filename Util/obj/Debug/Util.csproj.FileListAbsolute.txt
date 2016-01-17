@@ -36,3 +36,14 @@ C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\Util\bin\Debug\Data.Database.pd
 C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
 C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\Util\obj\Debug\Util.dll
 C:\Users\Gustavo\Desktop\TP2_V_4.2\TP2_V_4.2\TP2\Util\obj\Debug\Util.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\bin\Debug\Util.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\bin\Debug\Util.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\bin\Debug\Entidades.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\bin\Debug\Negocio.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\bin\Debug\Data.Database.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\bin\Debug\Entidades.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\bin\Debug\Negocio.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\bin\Debug\Data.Database.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\obj\Debug\Util.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Util\obj\Debug\Util.pdb

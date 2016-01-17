@@ -66,3 +66,12 @@ C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Negocio\bin\Debug\Ent
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Negocio\obj\Debug\Negocio.dll
 C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Negocio\bin\Debug\Negocio.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Negocio\bin\Debug\Data.Database.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Negocio\bin\Debug\Entidades.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Negocio\bin\Debug\Data.Database.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Negocio\obj\Debug\Negocio.dll
+C:\Users\Mariano\Documents\Visual Studio 2015\Projects\TP2\Academia\Negocio\obj\Debug\Negocio.pdb
